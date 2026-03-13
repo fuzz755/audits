@@ -1,0 +1,14 @@
+{
+  "protocol": "TSwap",
+  "protocolType": "AMM / DEX",
+  "logo": "logo.png",
+  "auditors": ["fuzz755"],
+  "date": {
+    "from": "2026-03-10",
+    "to": "2026-03-11"
+  },
+  "commitHash": "7bd52c6a75f1115b23e0cff0fa16f7c522703fcd",
+  "repo": "https://github.com/Cyfrin/5-t-swap-audit",
+  "scope": ["./src/PoolFactory.sol", "./src/TSwapFactory.sol"],
+  "version": "1.0"
+}
