@@ -1,0 +1,14 @@
+{
+  "protocol": "NFT Dealers",
+  "protocolType": "NFT Marketplace",
+  "logo": "logo.png",
+  "auditors": ["fuzz755"],
+  "date": {
+    "from": "2026-03-14",
+    "to": "2026-03-15"
+  },
+  "commitHash": "f34038b7b948d0902ef5ae99e9f1a4964bd3cdb5",
+  "repo": "https://github.com/CodeHawks-Contests/2026-03-NFT-dealers.git",
+  "scope": ["./src/MockUSDC.sol", "./src/NFTDealers.sol"],
+  "version": "1.0"
+}
